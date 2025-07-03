@@ -1,4 +1,4 @@
-name: Test & Deploy – Cloudflare Worker (Python)
+name: Test & Deploy – Cloudflare Worker (Python) 1
 
 on:
   push:
